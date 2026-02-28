@@ -10,4 +10,3 @@ var isAutomation =true
 console.log(typeof(isAutomation))
 var hasPlaywright
 console.log(typeof hasPlaywright)
-console.log("hi")
